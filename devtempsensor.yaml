@@ -27,6 +27,6 @@ packages:
     url: https://github.com/huizebruin/esphome
     ref: main
     files:
-      - TempSensorDHT/dev_basis.yaml
-      - TempSensorDHT/dev_sensor.yaml
+      - package/dev_basis.yaml
+      - package/dev_sensor.yaml
     refresh: 0d
